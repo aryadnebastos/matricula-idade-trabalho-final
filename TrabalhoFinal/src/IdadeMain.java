@@ -88,7 +88,6 @@ public class IdadeMain {
 	}
 
 
-
 	public static void gravarDados(){
 		try{
 			BufferedWriter arqSaida;
