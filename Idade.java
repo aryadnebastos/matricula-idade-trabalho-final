@@ -30,10 +30,7 @@ public class Idade {
 
 	@Override
 	public String toString() {
-		return "Idade [matricula=" + matricula + ", idade=" + idade + "]";
+		return this.matricula + "\t" + this.idade + "\n";
 	}
 	
-	
-	
-
 }
