@@ -1,7 +1,6 @@
-package TrabFinal;
 
 public class Idade {
-	
+		
 	private int matricula, idade;
 
 	public Idade() {
@@ -32,5 +31,5 @@ public class Idade {
 	public String toString() {
 		return this.matricula + "\t" + this.idade + "\n";
 	}
-	
+
 }

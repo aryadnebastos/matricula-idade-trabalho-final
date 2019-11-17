@@ -1,4 +1,3 @@
-package TrabFinal;
 
 import java.util.Scanner;
 
